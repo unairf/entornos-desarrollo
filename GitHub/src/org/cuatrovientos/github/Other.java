@@ -4,15 +4,15 @@
 package org.cuatrovientos.github;
 
 /**
- * @author Unai Rodríguez 
+ * @author PC
  *
  */
-public class Main {
+public class Other {
 
 	/**
 	 * 
 	 */
-	public Main() {
+	public Other() {
 		// TODO Auto-generated constructor stub
 	}
 
