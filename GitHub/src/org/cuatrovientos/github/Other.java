@@ -4,7 +4,7 @@
 package org.cuatrovientos.github;
 
 /**
- * @author PC
+ * @author Unai Rodríguez   
  *
  */
 public class Other {
